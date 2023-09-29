@@ -1,0 +1,6 @@
+outs:
+- md5: a95a23b71cd96d253fc9babce430c74e
+  size: 254
+  isexec: true
+  hash: md5
+  path: get_data.py
